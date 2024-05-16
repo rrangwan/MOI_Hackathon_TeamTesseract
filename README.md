@@ -9,8 +9,15 @@ Description of Solution: To enable people who cannot see or read, but can hear t
 
 Reasoning: While destop computers and apple products have tools available to help visually challenged users, when it comes to Android mobile apps, there is no such tool available. Each app needs to generate aids by itself. This is a brief demonstration, if given more time I would include a version in Arabic and provide the output report in Braile Ready Format.
 
-How to build and run:
+How to build and run: <br>
 npm run build <br>
 npm run dev
 
 then goto: http://localhost:3000/
+
+
+Instructions:<br><br>
+Turn on sound.<br>
+Single click text to hear what it is.<br>
+Double click text to click it<br><br>
+Start by double clicking "Activate Assistive Technology"
