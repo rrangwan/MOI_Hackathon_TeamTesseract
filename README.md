@@ -5,7 +5,7 @@ Members: Raj Rangwani (rrangwan@student.42abudhabi.ae)
 
 also available at: https://moi-hackathon-team-tesseract.vercel.app/
 
-Description of Solution: To enable people who cannot see or read, but can hear to naviate the mobile app.
+Description of Solution: To enable people who cannot see or read, but can hear to navigate the mobile app.
 
 Reasoning: While desktop computers and apple products have tools available to help visually challenged users, when it comes to Android mobile apps, there is no such tool available. <br>
 Each app needs to generate aids by itself. <br> I have creted a demonstration for how assistance can be provided for the blind, on the existing MOI android app. <br>
