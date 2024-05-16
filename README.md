@@ -1,6 +1,7 @@
 # MOI_Hackathon_TeamTesseract2
 
-Team: Raj Rangwani (rrangwan@student.42abudhabi.ae)
+Team: Tesseract2: 
+Members: Raj Rangwani (rrangwan@student.42abudhabi.ae)
 
 also available at: https://moi-hackathon-team-tesseract.vercel.app/
 
