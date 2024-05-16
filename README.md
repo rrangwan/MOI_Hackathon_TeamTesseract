@@ -10,6 +10,7 @@ Description of Solution: To enable people who cannot see or read, but can hear t
 Reasoning: While desktop computers and apple products have tools available to help visually challenged users, when it comes to Android mobile apps, there is no such tool available. <br>
 Each app needs to generate aids by itself. <br> I have creted a demonstration for how assistance can be provided for the blind, on the existing MOI android app. <br>
 This feature is also useful for those who cannot read English, and for those who prefer a clutter free navigation experience.<br>
+
 If given more time I would include a version in Arabic and provide the output "Criminal Report" in Braile Ready Format.<br>
 
 How to build and run: <br>
